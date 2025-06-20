@@ -1,7 +1,7 @@
 {
-  "name": "my-userscript",
+  "name": "iDontLikeRufus",
   "version": "1.0.0",
-  "description": "A userscript that enhances web pages with custom functionality.",
+  "description": Removes mentions of "," Amazon's AI assistant, from the US Amazon webpage. Please note that this does not remove the AI assistant, it just removes its name. Can be customized to rename to whatever name desired. Default is to replace it with whitespace (i.e. empty string)..",
   "main": "src/script.user.js",
   "scripts": {
     "build": "echo 'Building the userscript...'",
@@ -12,7 +12,7 @@
     "javascript",
     "web"
   ],
-  "author": "Your Name",
+  "author": "nexnot",
   "license": "The Unlicense",
   "dependencies": {},
   "devDependencies": {
