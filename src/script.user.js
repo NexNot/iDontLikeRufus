@@ -4,7 +4,8 @@
 // @version      1.0.0
 // @description  Removes mentions of "Rufus," Amazon's AI assistant, from the US Amazon webpage.
 // @author       nexnot
-// @match        *://*/*
+// @match        https://www.amazon.com/*
+// @match        https://smile.amazon.com/*
 // ==/UserScript==
 
 (function() {
