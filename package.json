@@ -1,0 +1,21 @@
+{
+  "name": "my-userscript",
+  "version": "1.0.0",
+  "description": "A userscript that enhances web pages with custom functionality.",
+  "main": "src/script.user.js",
+  "scripts": {
+    "build": "echo 'Building the userscript...'",
+    "test": "echo 'Running tests...'"
+  },
+  "keywords": [
+    "userscript",
+    "javascript",
+    "web"
+  ],
+  "author": "Your Name",
+  "license": "The Unlicense",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
