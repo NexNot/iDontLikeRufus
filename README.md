@@ -1,1 +1,1 @@
-Removes mentions of "Rufus," Amazon's AI assistant, from the US Amazon webpage. Please note that this does not remove the AI assistant, it just removes its name. Can be customized to rename to whatever name desired. Default is to replace it with whitespace (i.e. empty string).
+Userscript that removes mentions of "Rufus," Amazon's AI assistant, from the US Amazon webpage. Please note that this does not remove the AI assistant, it just removes its name. Can be customized to rename to whatever name desired. Default is to replace it with whitespace (i.e. empty string).
